@@ -20,4 +20,4 @@
 
 ## USAGE
 
-- `#TODO: Add correct command line usage for tool`
+- `python3 -m weather.py <city name>
