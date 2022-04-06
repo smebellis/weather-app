@@ -20,4 +20,4 @@
 
 ## USAGE
 
-- `python3 -m weather.py <city name>
+- `python3 -m weather.py [-h] [-i] city [city...]
